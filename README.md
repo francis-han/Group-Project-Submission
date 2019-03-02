@@ -21,7 +21,7 @@
 ## SECTION 1 : PROJECT TITLE
 ## Depression Screening System
 
-<img src="Miscellaneous/banner.gif"
+<img src="Miscellaneous/Banner.gif"
      style="float: left; margin-right: 0px;" />
 
 ---
