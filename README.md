@@ -21,7 +21,7 @@
 ## SECTION 1 : PROJECT TITLE
 ## Depression Screening System
 
-<img src="SystemCode/clips/static/hdb-bto.png"
+<img src="Miscellaneous/banner.gif"
      style="float: left; margin-right: 0px;" />
 
 ---
