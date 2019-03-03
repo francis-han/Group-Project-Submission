@@ -45,12 +45,14 @@ Once level #1 is done, those identified candidates can proceed to Level #2 and l
 ---
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
 
-Official Full Name	Student ID (MTech Applicable)	
-CAO LIANG	               A0012884E	
-GENG LIANGYU	          A0195278M	
-HAN DONGCHOU FRANCIS	A0195414A	
-ONG BOON PING	          A0195172B	
-TAN CHIN GEE	          A0195296M	
+
+| Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
+| :------------ |:---------------:| :-----| :-----|
+| CAO LIANG            | A0012884E | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A0012884E@nus.edu.sg |
+| GENG LIANGYU         | A0195278M | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A0195278M@nus.edu.sg |
+| HAN DONGCHOU FRANCIS | A0195414A | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A0195414A@nus.edu.sg |
+| ONG BOON PING        | A0195172B | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A0195172B@nus.edu.sg |
+| TAN CHIN GEE         | A0195296M | xxxxxxxxxx yyyyyyyyyy zzzzzzzzzz| A0195296M@nus.edu.sg |
 
 
 ---
